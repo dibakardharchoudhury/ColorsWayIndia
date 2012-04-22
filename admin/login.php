@@ -31,7 +31,7 @@ if (isset($_POST['txtUserName'])) {
        <p>&nbsp;</p>
        <table width="350" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#336699" class="entryTable">
         <tr id="entryTableHeader"> 
-         <td>:: Admin Login ::</td>
+         <td>:: Administrator Login ::</td>
         </tr>
         <tr> 
          <td class="contentArea"> 
