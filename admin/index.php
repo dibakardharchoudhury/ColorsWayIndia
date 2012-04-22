@@ -6,7 +6,7 @@ checkUser();
 
 $content = 'main.php';
 
-$pageTitle = 'Shop Admin';
+$pageTitle = 'Shop Administrator';
 $script = array();
 
 require_once 'include/template.php';
